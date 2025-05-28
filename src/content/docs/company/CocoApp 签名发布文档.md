@@ -4,10 +4,6 @@ title: CocoApp 签名发布文档_0528
 
 description: CocoApp 签名发布文档_0528
 ---
-# CocoApp 签名发布文档
-
-
-
 ## 一、概述
 
 本文档详细说明 CocoApp 的签名发布流程，确保发布过程规范准确，指导完成 CocoApp 子站的打包、构建、签名及更新操作。

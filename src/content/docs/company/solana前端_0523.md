@@ -1,8 +1,8 @@
 
 ---
-title: solana前端_0523
+title: Solana前端_0523
 
-description: solana前端_0523
+description: Solana前端_0523
 ---
 
 - ##### **检测**：在使用   window.solana   之前，需要确保用户已经安装了支持 Solana 的钱包（如 Phantom）。

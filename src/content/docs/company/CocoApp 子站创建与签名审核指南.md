@@ -3,8 +3,6 @@ title: CocoApp 子站创建与签名审核指南_0528
 
 description: CocoApp 子站创建与签名审核指南_0528
 ---
-# CocoApp 子站创建与签名审核指南
-
 ## 一、创建子站
 
 ### 1. 初始化子站结构
